@@ -1,3 +1,4 @@
+![Backend Tests](https://github.com/shafeeqizz/Time-Perception-Analyzer/actions/workflows/test.yml/badge.svg)
 # Time Perception Analyzer
 
 A full-stack behavioral analytics dashboard that analyzes how accurately you estimate task durations.
